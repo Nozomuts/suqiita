@@ -2,7 +2,7 @@
 class Database
 {
     private $db_host = 'db';
-    private $db_name = 'react_auth';
+    private $db_name = 'mysql';
     private $db_username = 'root';
     private $db_password = 'secret';
 
