@@ -2,9 +2,9 @@
   "name": "with-typescript",
   "version": "1.0.0",
   "scripts": {
-    "dev": "cd app && next",
-    "build": "cd app && next build",
-    "start": "cd app && next start",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
     "docker": "docker-compose up",
     "stop": "docker-compose stop",
     "type-check": "tsc"
